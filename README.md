@@ -6,7 +6,7 @@ sss
 
 # CircleCI Demo Application: Python / Django
 
-[![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-python-django.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-python-django)
+[![CircleCI](1https://circleci.com/gh/CircleCI-Public/circleci-demo-python-django.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-python-django)
 
 This is an example application showcasing how to build test and deploy a Django app on CircleCI 2.0.
 
